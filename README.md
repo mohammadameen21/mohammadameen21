@@ -1,4 +1,4 @@
-<h1 align="center">Hello World <span><img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" alt="" style="width: 20px;"></span>, I'm Developer Mohammad Ameen 🕊️</h1>
+<h1 align="center">Hello World <span><img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" alt="" width="40" height="40""></span>, I'm Developer Mohammad Ameen 🕊️</h1>
 <h3 align="center">if( java_Fullstack_Developer && android_Developer && mern_Stack_Developer ){ return " Developer Mohammad Ameen" }</h3>
 
 - ⚓I'm currently working on various programming skills like! **Full Stack Java Development, Android Development, Mern Stack Development and Python Development.**
