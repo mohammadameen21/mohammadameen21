@@ -3,19 +3,19 @@
 
 - ⚓I'm currently working on various programming skills like! **Full Stack Java Development, Android Development, Mern Stack Development and Python Development.**
 
-- 💬 Feel free to ask me anything. **react, android, python, java**
+- 💬 Feel free to ask me anything about **Anything**
 
 - 📫 How to reach me **md.ameen1080@gmail.com**
 
 - 📄 Know about my experiences [2nd year Computer Science and Engineering student, who developed many sort of complex secure Websites and Applications, also i am familiar with Data Science in Python knowledge. I daily following all my to-do list tasks according to my time management and learning all the essential skills which are required to become a Frontend as well as Backend Developer. I also familiar with Android Development and I have developed many android applications such as Scientific Calculator, Weather Report and TodoList kind of applications.](2nd year Computer Science and Engineering student, who developed many sort of complex secure Websites and Applications, also i am familiar with Data Science in Python knowledge. I daily following all my to-do list tasks according to my time management and learning all the essential skills which are required to become a Frontend as well as Backend Developer. I also familiar with Android Development and I have developed many android applications such as Scientific Calculator, Weather Report and TodoList kind of applications.)
 
-- ⚡ Fun fact **I always have fun while code, i treat coding as a hobby.**
+- ⚡ Fun fact **I always have fun while writing code, i treat coding as a hobby.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammad ameen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad ameen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd-ameen-1080md/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad ameen" height="30" width="40" /></a>
 <a href="https://fb.com/mahd ameen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahd ameen" height="30" width="40" /></a>
-<a href="https://instagram.com/__nerd.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nerd.__" height="30" width="40" /></a>
+<a href="https://instagram.com/_nerd.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nerd.__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
